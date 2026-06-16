@@ -8,8 +8,8 @@
 
 ## 🚀 Enlaces del Proyecto
 
-* **Repositorio en GitHub:** `https://github.com/TU_USUARIO/Practice-Git-Little-Red-Riding-Hood`
-* **Despliegue en GitHub Pages:** [Ver el proyecto en vivo aquí](https://wfhgdev.github.io/BootCampWebF5-LittleRedRidingHood/)
+* **Repositorio en GitHub:** `https://github.com/wfhgdev/BootCampWebF5-LittleRedRidingHood`
+* **Despliegue en GitHub Pages:** [Ver el proyecto en linea aquí](https://wfhgdev.github.io/BootCampWebF5-LittleRedRidingHood/)
 
 ---
 
