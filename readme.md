@@ -9,7 +9,7 @@
 ## 🚀 Enlaces del Proyecto
 
 * **Repositorio en GitHub:** `https://github.com/TU_USUARIO/Practice-Git-Little-Red-Riding-Hood`
-* **Despliegue en GitHub Pages:** [Ver el proyecto en vivo aquí](https://TU_USUARIO.github.io/Practice-Git-Little-Red-Riding-Hood/) *(Reemplaza con tu enlace real)*
+* **Despliegue en GitHub Pages:** [Ver el proyecto en vivo aquí](https://wfhgdev.github.io/BootCampWebF5-LittleRedRidingHood/)
 
 ---
 
@@ -28,7 +28,7 @@
 En este proyecto, la gestión de Git ha sido fundamental. Los commits se han realizado de manera atómica (un cambio estructurado por commit) para reflejar un flujo de trabajo real en desarrollo web. 
 
 El orden lógico seguido ha sido:
-1. `init`: Creación de la estructura base del proyecto (`index.html`, carpetas `/css` e `/img`).
+1. `init`: Creación de la estructura base del proyecto (`index.html`, carpetas `/img` y archivos independientes `/css`).
 2. `feat`: Redacción de los diferentes capítulos de la historia en HTML semántico.
 3. `feat`: Añadidas imágenes descriptivas para cada sección del cuento.
 4. `style`: Aplicación de estilos CSS (paleta de colores, tipografías y layout).
