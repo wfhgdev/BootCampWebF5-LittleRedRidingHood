@@ -1,4 +1,4 @@
-**#Desarrollado por William Hernández**
+**#Desarrollado por William Hernández - Alicante**
 
 # Git & GitHub Practice: Little Red Riding Hood (Caperucita Roja)
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🪵 Historial de Commits (Buenas Prácticas)
+## :thought_balloon: Historial de Commits (Buenas Prácticas)
 
 En este proyecto, la gestión de Git ha sido fundamental. Los commits se han realizado de manera atómica (un cambio estructurado por commit) para reflejar un flujo de trabajo real en desarrollo web. 
 
@@ -39,3 +39,4 @@ El orden lógico seguido ha sido:
 ## 📸 Vista Previa del Resultado
 
 A continuación se muestra una captura de
+![screenshoot index.html](images/index_screenshoot.png)
