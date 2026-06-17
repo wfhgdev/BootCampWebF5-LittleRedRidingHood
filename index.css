@@ -3,27 +3,29 @@ h1{
 }
 
 img{
-    width: 100%;
+    width: 100%; /*La imagen ocupa el 100% del ancho de su contenedor*/
     max-width: 800px;
-    height: auto;        /* mantiene proporción */
+    height: auto; /*mantiene proporción de la altura*/
     display: block;
     margin: 1rem auto;   /* centra todas las imágenes */
 }
 
 body{
-    background-color: blanchedalmond;
+    background-color: blanchedalmond; /*color de fondo del body*/
 }
 
 .dialog {
-    font-style: italic;
+    font-style: italic; /*cursiva*/
+    border-left: 4px solid #b63c3c; /*línea vertical en el lado izquierdo del elemento. 4px es el grosor de la línea, solid es el estilo "continua, sin guiones", y el color*/
+    padding: 8px 16px; /*Añade espacio interior entre el contenido y el borde de la linea*/
 }
 
+/*imagen de caratula del cuento*/
 .facebook {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-
+  width: 60%;
 }
 
 /*clase estilo para personajes principales del cuento*/
@@ -31,6 +33,7 @@ body{
     font-weight: bold;
 }
 
+/*capitulos del cuento*/
 .chapter1,.chapter2,.chapter3,.chapter4,.chapter5{
     text-align: justify; /*Justifica texto*/
     hyphens: auto;  /*Divide las palabras largas con un guion*/
