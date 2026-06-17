@@ -3,7 +3,11 @@ h1{
 }
 
 img{
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;        /* mantiene proporción */
+    display: block;
+    margin: 1rem auto;   /* centra todas las imágenes */
 }
 
 body{
@@ -18,14 +22,19 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%; /* O el tamaño que tú quieras */
+  width: 50%;
+
 }
 
-/*style class for fairytale main characters*/
+/*clase estilo para personajes principales del cuento*/
 .mainChar{
     font-weight: bold;
 }
 
 .chapter1,.chapter2,.chapter3,.chapter4,.chapter5{
-    text-align: justify;
+    text-align: justify; /*Justifica texto*/
+    hyphens: auto;  /*Divide las palabras largas con un guion*/
+    line-height: 1.7;  /*Espacio vertical entre líneas de texto. 1.7 significa que el espacio es 1.7 veces el tamaño de la fuente*/
+    max-width: 860px; /*Ancho máximo para bloque de texto. En pantallas grandes el texto no se estira más de 860 píxeles*/
+    margin: 0 auto;  /*centra el contenido*/
 }
